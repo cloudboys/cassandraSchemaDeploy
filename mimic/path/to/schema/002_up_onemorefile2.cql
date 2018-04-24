@@ -1,4 +1,4 @@
-﻿-- up
+﻿-- sd-up
 CREATE TABLE IF NOT EXISTS table2 (
    col1 uuid,
    col2 boolean,
